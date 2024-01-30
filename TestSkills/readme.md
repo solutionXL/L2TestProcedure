@@ -28,13 +28,13 @@ Turn of GM invi
 
 ![GM Panel](8GMPanel.png)
 
-cho adena (itemId 57)
-mua vũ khí theo class, soul ore, soul shot, ... (mua shop)
-Treo farm 30p
-Check skill dùng được hay hông, skill countdown, skill effect, skill stat, enchant skill…
+- cho adena (itemId 57)
+- mua vũ khí theo class, soul ore, soul shot, ... (mua shop)
+- Treo farm 30p
+- Check skill dùng được hay hông, skill countdown, skill effect, skill stat, enchant skill…
 
 ## Check Game Server log
 
 ## Test tiếp class khác
 
-cần reset skills, reset class, trước khi test tiếp class khác
+cần `reset skills`, `reset class`, trước khi test tiếp class khác
